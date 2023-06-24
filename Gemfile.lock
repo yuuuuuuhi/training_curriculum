@@ -82,6 +82,7 @@ GEM
     globalid (1.1.0)
       activesupport (>= 5.0)
     i18n (1.14.1)
+    i18n (1.14.0)
       concurrent-ruby (~> 1.0)
     jbuilder (2.11.5)
       actionview (>= 5.0.0)
@@ -107,6 +108,10 @@ GEM
     msgpack (1.7.1)
     mysql2 (0.5.5)
     net-imap (0.3.6)
+    minitest (5.18.0)
+    msgpack (1.7.1)
+    mysql2 (0.5.5)
+    net-imap (0.3.4)
       date
       net-protocol
     net-pop (0.1.2)
@@ -128,6 +133,7 @@ GEM
     puma (4.3.12)
       nio4r (~> 2.0)
     racc (1.7.1)
+    racc (1.6.2)
     rack (2.2.7)
     rack-proxy (0.7.6)
       rack
@@ -164,6 +170,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     regexp_parser (2.8.1)
+    regexp_parser (2.8.0)
     rexml (3.2.5)
     ruby_dep (1.5.0)
     rubyzip (2.3.2)
@@ -195,6 +202,7 @@ GEM
     thor (1.2.2)
     thread_safe (0.3.6)
     tilt (2.2.0)
+    tilt (2.1.0)
     timeout (0.3.2)
     turbolinks (5.2.1)
       turbolinks-source (~> 5.2)
